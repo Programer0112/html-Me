@@ -1,0 +1,20 @@
+html{
+    background-color: blue;
+}
+
+.container {
+    background-color: red;
+    font-size: x-large;
+    display: flex;
+    gap: 1rem;
+    justify-content: space-evenly;
+}
+
+.container > div > a {
+    color:blue;
+    font-size: 50px;
+}
+
+h1 {
+    font-size: 5rem;
+}
